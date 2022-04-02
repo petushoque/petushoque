@@ -3,6 +3,14 @@
 [![codewars](https://www.codewars.com/users/petushoque/badges/large)](https://www.codewars.com/users/petushoque)   
 
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petushoque&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petushoque&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petushoque&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petushoque&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petushoque&theme=solarized_dark)
+
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petushoque&hide=issues,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
